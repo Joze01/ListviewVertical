@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListviewVertical</string>
+    <string name="title_activity_card_view">CardViewActivity</string>
+</resources>
